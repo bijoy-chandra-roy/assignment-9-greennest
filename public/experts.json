@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Green",
+    "role": "Indoor Plant Specialist",
+    "image": "/images/alice.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bob Leaf",
+    "role": "Air-Purifying Plant Expert",
+    "image": "/images/bob.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clara Bloom",
+    "role": "Flowering Plant Specialist",
+    "image": "/images/clara.jpg"
+  }
+]

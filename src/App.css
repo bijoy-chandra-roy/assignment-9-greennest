@@ -1,0 +1,19 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default;
+}
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  --color-primary: #68be35;
+  --color-secondary: #8ed965;
+  --color-accent: #a7e77a;
+  --color-neutral: #2f2f2f;
+  --color-base-100: #f7faf5;
+  --color-base-200: #ffffff;
+  --color-base-content: #1a1a1a;
+}
+
+footer a:hover {
+  color: #68be35;
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "/images/snake.jpg",
+    "providerName": "UrbanGreen Studio",
+    "careTips": "Water every 2-3 weeks, allowing soil to dry completely between waterings. Prefers indirect or low light. Fertilize lightly once every 2-3 months during growing season."
+  },
+  {
+    "plantId": 2,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 15,
+    "rating": 4.6,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "A resilient plant that adapts well to various light conditions and improves air quality.",
+    "image": "/images/spider.jpg",
+    "providerName": "GreenThumb Nursery",
+    "careTips": "Keep soil slightly moist, water once a week. Prefers bright, indirect sunlight. Feed with a balanced liquid fertilizer monthly in spring and summer."
+  },
+  {
+    "plantId": 3,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 25,
+    "rating": 4.7,
+    "availableStock": 8,
+    "careLevel": "Moderate",
+    "description": "Known for its elegant white flowers and ability to purify air naturally.",
+    "image": "/images/lily.jpg",
+    "providerName": "Bloom House",
+    "careTips": "Water once the top inch of soil is dry, usually once a week. Prefers low to medium indirect light. Use a balanced fertilizer every 6 weeks during the growing season."
+  },
+  {
+    "plantId": 4,
+    "plantName": "Pothos",
+    "category": "Trailing Vine",
+    "price": 20,
+    "rating": 4.5,
+    "availableStock": 12,
+    "careLevel": "Easy",
+    "description": "A versatile vine plant that thrives in indirect light and is great for hanging baskets.",
+    "image": "/images/pothos.jpg",
+    "providerName": "Leafy Greens Co.",
+    "careTips": "Water every 1-2 weeks, allowing soil to dry out between waterings. Prefers bright, indirect light but tolerates low light. Feed monthly with diluted houseplant fertilizer."
+  },
+  {
+    "plantId": 5,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 22,
+    "rating": 4.3,
+    "availableStock": 7,
+    "careLevel": "Easy",
+    "description": "A stylish plant that tolerates low light and irregular watering.",
+    "image": "/images/zz.jpg",
+    "providerName": "Modern Botanics",
+    "careTips": "Water every 2-3 weeks or when soil is completely dry. Thrives in low to medium light. Fertilize lightly once every 2-3 months with general-purpose plant food."
+  },
+  {
+    "plantId": 6,
+    "plantName": "Rubber Plant",
+    "category": "Foliage",
+    "price": 30,
+    "rating": 4.4,
+    "availableStock": 5,
+    "careLevel": "Moderate",
+    "description": "A bold plant with large, glossy leaves that purify indoor air.",
+    "image": "/images/rubber.jpg",
+    "providerName": "Evergreen Plants",
+    "careTips": "Water weekly, keeping soil slightly moist but not soggy. Prefers bright, indirect sunlight. Fertilize once a month during spring and summer with balanced plant food."
+  }
+]
