@@ -8,6 +8,7 @@ import LogIn from "../pages/LogIn";
 import PageNotFound from "../pages/PageNotFound";
 import Plants from "../pages/Plants";
 import PrivateRoute from "../providers/PrivateRoute";
+import Attributions from "../pages/Attributions";
 
 const router = createBrowserRouter([
   {
@@ -86,6 +87,10 @@ const router = createBrowserRouter([
       {
         path: "cookies",
         Component: Home,
+      },
+      {
+        path: "attributions",
+        Component: Attributions,
       },
     ],
   },
